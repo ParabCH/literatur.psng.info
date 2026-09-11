@@ -4,7 +4,7 @@ resource_author: "Hyper Luc"
 publication: "Nachtschatten Verlag, 2025"
 date: 2025-11-01
 draft: false
-image: "/images/GAIAMEDIA.webp"
+image: "/images/Hyperspace Navigation.png"
 featured: false
 description: "Ein psychonautischer Reisebegleiter für Erfahrungen im Hyperspace und die Orientierung in veränderten Bewusstseinszuständen."
 categories:
