@@ -60,7 +60,7 @@ title = "PSNG Medien Blog"
     weight = 1
 
   [[menus.main]]
-    name = "Alle Beiträge"
+    name = "Alle Empfehlungen"
     url = "/posts/"
     weight = 2
 
