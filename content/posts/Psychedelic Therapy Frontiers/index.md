@@ -5,7 +5,7 @@ publication_year:
 recommendation: "Blue Rabbit"
 date: 2026-07-28
 draft: false
-image: "/images/Psychedelic Therapy Frontiers.jpg"
+image: "/images/Psychedelic Therapy Frontiers.png"
 featured: false
 description: "Dr. Steve Thayer und Dr. Reid Robisons prechen über die aktuellsten Themen der psychdelischen Welt und darüber, was wir brauchen, um einen gesunden Kopf, Körper und Geist zu kultiveren"
 categories:

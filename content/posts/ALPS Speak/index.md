@@ -5,7 +5,7 @@ publication_year:
 recommendation: "Blue Rabbit"
 date: 2026-07-28
 draft: false
-image: "/images/ALPSSPEAK.jpg"
+image: "/images/ALPSSPEAK.png"
 featured: false
 description: "Interviews mit Forschenden, Kliniker*innen und Patiernt*innen, die mit psychdelischen Substanzen arbeiten"
 categories:
