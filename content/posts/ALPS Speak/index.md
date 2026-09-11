@@ -5,9 +5,9 @@ publication_year:
 recommendation: "Blue Rabbit"
 date: 2026-07-28
 draft: false
-image: "/images/ALPSSPEAK.png"
+image: "/images/ALPSSPEAK.jpg"
 featured: false
-description: "Interviews mit Forschenden, KLiniker*innen und Patiernt*innen, die mit psychdelischen Substanzen arbeiten"
+description: "Interviews mit Forschenden, Kliniker*innen und Patiernt*innen, die mit psychdelischen Substanzen arbeiten"
 categories:
   - Podcast
 tags:
@@ -18,7 +18,7 @@ tags:
 ---
 
 ## Warum dieser Podcast?
-Jede Folge wird eine andere Person interviewt, um der subjektiven, wissenschftlichen und therapeutischenE rfahrung Raum zu geben. Auch soll mehr Bewusstsein zu Psychedeisch assistierter Pssychotehrapie (PAT) geschaffen werden 
+Jede Folge wird ein neuer Gast interviewt, um der subjektiven, wissenschftlichen und therapeutischen Erfahrung Raum zu geben. Auch soll mehr Bewusstsein zu Psychedeisch assistierter Pssychotehrapie (PAT) geschaffen werden 
 
 ## Was du in diesem Podcast findest
 * **Gesellschaftliche Dimension:** MDMA-unterstützte Therapie für PTPS, Negative Effekte von Psychedelika bewusst machen
